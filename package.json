@@ -1,12 +1,12 @@
 {
-  "name": "ingatu-toys",
+  "name": "pixtronic",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "serve:ssr:ingatu-toys": "node dist/ingatu-toys/server/server.mjs"
+    "serve:ssr:pixtronic": "node dist/pixtronic/server/server.mjs"
   },
   "prettier": {
     "printWidth": 100,
